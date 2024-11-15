@@ -12,7 +12,8 @@
 
 int main(int argc, const char * argv[]) {
     
+    // Test a game
     Game game("Huzaifah", "Derek");
-        game.start();
-        return 0;
+    game.start();
+    return 0;
 }
